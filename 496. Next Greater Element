@@ -23,6 +23,9 @@ class Solution {
         n1[i] = map.containsKey(n1[i]) ? map.get(n1[i]) : -1;
     }
 
+
+//Questions Asked in Amezon,Google ,FlipCart
+
     return n1;
 
     }
